@@ -3,7 +3,7 @@ requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mars"
+name = "MARS"
 version = "1.0.0"
 description = "MARS: Meta-learning approach for cell type discovery in heterogeneous single-cell data"
 readme = "README.md"
